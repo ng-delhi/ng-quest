@@ -59,11 +59,11 @@ Whether you're a beginner looking to master the basics or a seasoned dev prepari
 
 ---
 
-## 🤝 Join the NgQuest Community
+## 🤝 Join the NgDelhi Community
 
-🔗 [Ng Delhi WhatsApp Group](#)  
+🔗 [Ng Delhi WhatsApp Group](https://chat.whatsapp.com/CbnfqZN0Pk3D05pIEbYXmY)  
 💬 Follow [Rohtash Sethi](https://www.linkedin.com/in/rohtashsethi) on LinkedIn  
-🛠 Use `#ngquest` to share your solutions and progress!
+🛠 Use `#ngquest #ngDelhi` to share your solutions and progress!
 
 ---
 
